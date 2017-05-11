@@ -17,6 +17,7 @@ import client.StudentClient;
  * The Class Demo.
  * 
  * @author Haiyang Sun
+ * @author Eric Watat Lowe
  */
 public class Demo implements Runnable {
 	
