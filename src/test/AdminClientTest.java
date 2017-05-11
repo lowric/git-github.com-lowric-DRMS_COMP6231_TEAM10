@@ -5,6 +5,11 @@ import client.AdminClient;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+/**
+ * The Class AdminClientTes.
+ *
+ * @author Eric Watat Lowe
+ */
 
 public class AdminClientTest {
 	
