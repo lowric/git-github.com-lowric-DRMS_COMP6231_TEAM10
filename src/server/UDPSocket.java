@@ -5,7 +5,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 
 /**
- * @author Ankurp
+ * @author Eric Watat Lowe
  *
  */
 public class UDPSocket extends Thread {
