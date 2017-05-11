@@ -6,6 +6,12 @@ package test;
 	import org.junit.BeforeClass;
 	import org.junit.Test;
 
+/**
+ * The Class StudentClientTest.
+ *
+ * @author Eric Watat Lowe
+ */
+
 	public class StudentClientTest {
 		
 		private static StudentClient studentConcordia;
