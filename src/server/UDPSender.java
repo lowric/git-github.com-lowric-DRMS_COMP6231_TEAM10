@@ -8,6 +8,7 @@ import java.net.SocketException;
 
 /**
  * The Class UDPSender.
+ * @author Eric Watat Lowe
  */
 public class UDPSender {
 	
