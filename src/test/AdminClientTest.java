@@ -6,7 +6,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 /**
- * The Class AdminClientTes.
+ * The Class AdminClientTest.
  *
  * @author Eric Watat Lowe
  */
